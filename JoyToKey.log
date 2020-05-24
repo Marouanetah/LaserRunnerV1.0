@@ -1,0 +1,26 @@
+2017/05/24 14:30:01.735 Info   Starting JoyToKey Ver5.8.2
+2017/05/24 14:30:01.735 Info   ExeFile=C:\Users\necro\Desktop\Projets\PFA\laser Runner 0.1\game\ONLY_OPEN_FOR_USE_GAMEPAD.exe
+2017/05/24 14:30:01.735 Info   ConfigDir=C:\Users\necro\Desktop\Projets\PFA\laser Runner 0.1\game\
+2017/05/24 14:30:01.735 Info   IniFile=C:\Users\necro\Desktop\Projets\PFA\laser Runner 0.1\game\JoyToKey.ini
+2017/05/24 14:30:01.735 Info   Windows Version = 6.2
+2017/05/24 14:30:01.735 Error  Failed to load VistaAPI.dll (Utils\Utils.cpp#212)
+2017/05/24 14:30:01.735 Info   LicenseKey "" is not valid
+2017/05/24 14:30:01.829 Info   Loading XInput1_3.dll (Joystick.cpp#126)
+2017/05/24 14:30:01.829 Info   Initialized XInput (Joystick.cpp#144)
+2017/05/24 14:30:01.892 Info   Detected a DI joystick: {D51F0360-406A-11E7-8001-444553540000}, Generic   USB  Joystick  , Generic   USB  Joystick  
+2017/05/24 14:30:01.892 Info   Preferred index = -1
+2017/05/24 14:30:01.892 Info   numAxis = 5
+2017/05/24 14:30:01.892 Info   numPOVs = 1
+2017/05/24 14:30:01.892 Info   numButtons = 12
+2017/05/24 14:30:01.892 Info   EnumDeviceObject: Axis offset=0 type=502 name=Z Rotation
+2017/05/24 14:30:01.892 Info   EnumDeviceObject: Axis offset=4 type=202 name=Z Axis
+2017/05/24 14:30:01.892 Info   EnumDeviceObject: Axis offset=8 type=602 name=Z Axis
+2017/05/24 14:30:01.892 Info   EnumDeviceObject: Axis offset=12 type=102 name=Y Axis
+2017/05/24 14:30:01.892 Info   EnumDeviceObject: Axis offset=16 type=2 name=X Axis
+2017/05/24 14:30:01.892 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2017/05/24 14:30:01.907 Info   Joystick #1: Generic   USB  Joystick
+2017/05/24 14:30:01.907 Info   1 joysticks are detected (Joystick.cpp#166)
+2017/05/24 14:30:01.907 Info   ConfigDir=C:\Users\necro\Desktop\Projets\PFA\laser Runner 0.1\game\*.cfg (ConfigFileManager.cpp#43)
+2017/05/24 14:30:01.907 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2017/05/24 14:30:01.923 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
+2017/05/24 14:30:28.031 Info   Application terminated (Utils\LogFile.cpp#20)
